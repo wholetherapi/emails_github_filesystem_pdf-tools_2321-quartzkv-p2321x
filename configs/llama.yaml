@@ -1,0 +1,4 @@
+model: llama-2-7b
+rank: 32
+max_context: 32768
+batch_size: 1
